@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ingredients {
+    color: brown;
+}
+
+.method {
+    color: coral;
+}
+
+h3 {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
