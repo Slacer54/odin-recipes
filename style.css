@@ -28,3 +28,22 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+
+.nav {
+    text-align: center;
+    
+}
+
+.nav-button {
+    display: inline;
+    margin: 10px;
+    padding: 10px 20px;
+    list-style: none;
+    background-color: rgb(58, 53, 53);
+    
+}
+
+.nav-button a {
+    text-decoration: none;
+    color: rgb(205, 221, 221);
+}
